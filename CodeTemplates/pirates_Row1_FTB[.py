@@ -22,6 +22,8 @@ pirates = [
     {"name": "Jean Lafitte", "sex": "M", "death_age": "NA",
         "height": "", "skull_cross": "F"}
 ]
-
-print (pirates [1])
-
+num= -1
+for pirate in pirates:
+    num += 1
+    print('pirate')
+print(num)

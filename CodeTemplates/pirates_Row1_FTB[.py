@@ -22,8 +22,6 @@ pirates = [
     {"name": "Jean Lafitte", "sex": "M", "death_age": "NA",
         "height": "", "skull_cross": "F"}
 ]
-num= -1
-for pirate in pirates:
-    num += 1
-    print('pirate')
-print(num)
+
+print (pirates [1])
+

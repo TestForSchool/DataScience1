@@ -1,0 +1,42 @@
+Vehicle,Type,Weight,Acceleration,On-Road_Traction,Off-Road Traction,Mini-Turbo,Ground_Speed,Water_Speed,Anti-Gravity_Speed,Air_Speed,Ground_Handling,Water Handling,Anti-Gravity_Handling,Air_Handling
+300 SL Roadster,Kart,2,4,3,3,4,3,3,3,3,3,2,3,3
+B Dasher,Kart,3,1,3,1,1,5,1,4,2,1,1,2,0
+Badwagon,Kart,4,0,2,5,0,5,2,3,1,0,1,1,0
+Biddybuggy,Kart,0,7,1,4,7,0,1,2,1,5,4,5,4
+Blue Falcon,Kart,0,3,1,3,3,4,2,4,3,2,3,5,1
+Bone Rattler,ATV,4,1,1,3,2,4,5,2,0,1,5,1,1
+Cat Cruiser,Kart,2,5,4,3,5,2,2,3,4,4,2,3,4
+Circuit Special,Kart,3,1,3,1,1,5,1,4,2,1,1,2,0
+City Tripper,Standard Bike,1,6,3,4,6,1,3,1,1,5,4,4,2
+Comet,Sport Bike,2,5,4,3,5,2,2,3,4,4,2,3,4
+Flame Rider,Standard Bike,1,5,3,5,5,2,2,4,3,4,3,4,3
+GLA,Kart,4,0,2,5,0,5,2,3,1,0,1,1,0
+Gold Standard,Kart,2,2,1,0,3,4,2,3,3,3,2,3,2
+Inkstriker,ATV,3,3,2,4,4,3,3,5,4,2,2,4,2
+Jet Bike,Sport Bike,1,2,1,2,3,4,3,3,3,3,3,2,3
+Koopa Clown,Kart,3,2,4,7,3,2,4,3,3,4,4,3,3
+Landship,Kart,0,6,0,6,6,1,5,0,2,4,5,2,3
+Mach 8,Kart,3,3,2,4,4,3,3,5,4,2,2,4,2
+Master Cycle,Sport Bike,2,2,1,0,3,4,2,3,3,3,2,3,2
+Master Cycle Zero,Standard Bike,3,2,4,7,3,2,4,3,3,4,4,3,3
+Mr. Scooty,Standard Bike,0,7,1,4,7,0,1,2,1,5,4,5,4
+P-Wing,Kart,3,1,3,1,1,5,1,4,2,1,1,2,0
+Pipe Frame,Kart,1,6,3,4,6,1,3,1,1,5,4,4,2
+Prancer,Kart,1,2,1,2,3,4,3,3,3,3,3,2,3
+Sneeker,Kart,2,2,1,0,3,4,2,3,3,3,2,3,2
+Splat Buggy,ATV,0,3,1,3,3,4,2,4,3,2,3,5,1
+Sport Bike,Sport Bike,1,2,1,2,3,4,3,3,3,3,3,2,3
+Sports Coupe,Kart,3,3,2,4,4,3,3,5,4,2,2,4,2
+Standard ATV,ATV,4,0,2,5,0,5,2,3,1,0,1,1,0
+Standard Bike,Standard Bike,1,5,3,5,5,2,2,4,3,4,3,4,3
+Standard Kart,Kart,2,4,3,3,4,3,3,3,3,3,2,3,3
+Steel Driver,Kart,4,1,1,3,2,4,5,2,0,1,5,1,1
+Streetle,Kart,0,6,0,6,6,1,5,0,2,4,5,2,3
+Tanooki Kart,Kart,3,2,4,7,3,2,4,3,3,4,4,3,3
+Teddy Buggy,ATV,2,5,4,3,5,2,2,3,4,4,2,3,4
+The Duke,Standard Bike,2,4,3,3,4,3,3,3,3,3,2,3,3
+Tri-Speeder,Kart,4,1,1,3,2,4,5,2,0,1,5,1,1
+Varmint,Standard Bike,1,6,3,4,6,1,3,1,1,5,4,4,2
+W 25 Silver Arrow,Kart,1,5,3,5,5,2,2,4,3,4,3,4,3
+Wild Wiggler,ATV,1,5,3,5,5,2,2,4,3,4,3,4,3
+Yoshi Bike,Sport Bike,2,5,4,3,5,2,2,3,4,4,2,3,4
